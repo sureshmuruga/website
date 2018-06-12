@@ -1,0 +1,13 @@
+<html>
+    <head><title>My Photos</title>
+        <link rel="icon" href="ph.png">
+    </head>
+    <style>
+      body{
+               background-image: url(ba.jpg);
+                background-position: center;
+            
+                background-repeat:no-repeat;
+                background-size: 1280px 2000px;
+               
+            }
